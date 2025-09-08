@@ -1,0 +1,27 @@
+[
+  { "id": 1 , 
+  "titulo": "Harry Potter" , 
+  "ano": "2015" , 
+  "autor": "JK Rowling"
+},
+  { "id": 2 , 
+  "titulo": "ele veio para libertar os cativos" , 
+  "ano": "2020" ,
+  "autor": "JK Rowling"
+},
+  { "id": 3 , 
+  "titulo": " Invocacao do mal " , 
+  "ano": "2022" ,
+  "autor": "JK Rowling"
+},
+  { "id": 4 , 
+  "titulo": "Nao tinha boca mas queria gritas" , 
+  "ano": "2024" ,
+  "autor": "JK Rowling"
+},
+  { "id": 5 , 
+  "titulo": "Diario de um banana" ,
+  "ano": "2022" ,
+  "autor": "JK Rowling"
+}
+]

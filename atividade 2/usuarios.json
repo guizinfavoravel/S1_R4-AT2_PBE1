@@ -1,0 +1,22 @@
+[
+  { "id": 1, 
+  "nome": "Guilherme Medeiros Lemos" , 
+  "email": "guilherme.lemos@gmail.com"
+},
+  { "id": 2, 
+  "nome": "Rafael Ramos" , 
+  "email": "Rafael.Ramos@gmail.com" 
+},
+  { "id": 3, 
+  "nome": "Irineu" ,  
+  "email": "Irineu@gmail.com" 
+},
+  { "id": 4, 
+  "nome": "Serjão Berrantero" , 
+  "email": "Serjao.berrantero@gmail.com" 
+},
+  { "id": 5, 
+  "nome": "Super Xandao" , 
+  "email": "Super.Xandao@gmail.com"
+ }
+]
